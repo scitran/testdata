@@ -1,1 +1,0 @@
-{"project": {"label": "Testdata"}, "session": {"subject": {"code": "ex4374"}, "label": "1.2.840.113619.6.283.4.983142589.1457.1366387983.757"}, "group": {"_id": "scitran"}, "acquisition": {"files": [{"type": "dicom", "name": null}], "timestamp": "2013-04-19T09:15:29", "label": "T1w .9mm sag", "instrument": "MRI", "measurement": "anatomical", "timezone": "America/Los_Angeles"}}
