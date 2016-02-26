@@ -1,0 +1,1 @@
+{"project": {"label": "Testdata"}, "session": {"subject": {"code": "ex1"}, "label": "1.3.12.2.1107.5.2.32.35068.30000014102215372779600000019"}, "group": {"_id": "scitran"}, "acquisition": {"files": [{"type": "dicom", "name": null}], "timestamp": "1970-01-01T00:00:00", "label": "Localizer", "instrument": "MRI", "measurement": "localizer", "timezone": "America/Los_Angeles"}}
